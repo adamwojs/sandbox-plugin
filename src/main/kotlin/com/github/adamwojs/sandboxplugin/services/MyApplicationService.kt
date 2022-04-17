@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.adamwojs.sandboxplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.adamwojs.sandboxplugin.MyBundle
 
 class MyApplicationService {
 
